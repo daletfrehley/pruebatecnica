@@ -1,0 +1,27 @@
+
+body {
+
+
+    margin-top: 200px;
+    background-image: url("fondo.jpg");
+    background-position: center;
+    padding: 0px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    src:("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap");
+    text-align: center;
+    
+  }
+
+  #txt{
+      color:white;
+      border-color: black;
+  }
+.photo{
+
+    width: 200px; height: 200px;
+    position:center;  
+    border-radius: 200px;
+    border: solid;
+    border-width:5px;
+    border-color: azure;
+  }
